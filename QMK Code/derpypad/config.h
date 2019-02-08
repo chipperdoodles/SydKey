@@ -9,7 +9,7 @@
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    qmkbuilder
 #define PRODUCT         DerpyPad
-#define DESCRIPTION     Keypad
+#define DESCRIPTION     DIY BLE Keypad
 #define CATERINA_BOOTLOADER
 
 /* key matrix size */

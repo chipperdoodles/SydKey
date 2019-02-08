@@ -4,7 +4,7 @@ Kicad files for a 4x6 numbpad using bluefruit 32u4 feather
 ![](img/pcbmountwithkeys.jpg)
 	
 ### Design
-This is a dead simple design is to make a bluetooth programmable number pad with small oled screen. It has 4 function keys and a full number pad layout underneath, it does not support alps switches or alternate layouts.
+This is a dead simple design is to make a bluetooth/qmk compatible number pad with small oled screen. It has 4 function keys and a full number pad layout underneath, it does not support alps switches or alternate layouts.
 
 It was designed with my home workflow in mind. This involves being etched via tiny cheap cnc engraver, hand soldered and then programmed via QMK. Trace width and pad shapes were messed with to make hand soldering more forgivable. It's also designed with the intention of one side being traced and the other side being hand wired, I found in my struggles with my aligning front and back designs in the process.
 
